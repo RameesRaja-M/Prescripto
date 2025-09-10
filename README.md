@@ -50,7 +50,9 @@ Authentication & role-based access
 
 Frontend: React.js, Tailwind CSS
 Backend: Node.js, Express.js, MongoDB
-Integrations: Razorpay, Cloudinary, Multer<img width="1918" height="865" alt="p1" src="https://github.com/user-attachments/assets/ba2271af-5e0b-4762-b0dc-f7b9691bd983" />
+Integrations: Razorpay, Cloudinary, Multer
+
+<img width="1918" height="865" alt="p1" src="https://github.com/user-attachments/assets/ba2271af-5e0b-4762-b0dc-f7b9691bd983" />
 <img width="1918" height="867" alt="p2" src="https://github.com/user-attachments/assets/12bff1bb-540f-42e9-9090-838960ed7f83" />
 <img width="1918" height="867" alt="p3" src="https://github.com/user-attachments/assets/a2c25156-1887-4313-b3b7-b0e332040f5a" />
 <img width="1918" height="867" alt="p4" src="https://github.com/user-attachments/assets/f8fafeab-83c6-44af-9e55-066a0a128aa9" />
